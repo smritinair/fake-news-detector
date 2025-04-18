@@ -1,3 +1,5 @@
-text,label
-"Scientists confirm COVID-19 originated in lab",fake
-"Vaccines shown to reduce transmission by 90%",real
+text,label,source
+"Study: 5G technology has no health risks",real,Scientific American
+"5G towers cause COVID-19",fake,Unknown Blog
+"NASA announces water discovery on Mars",real,NASA.gov
+"Flat Earth evidence uncovered",fake,Conspiracy Forum
